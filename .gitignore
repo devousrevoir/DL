@@ -1,0 +1,9 @@
+*.exp/
+*.zip/
+*.weights/
+*.css/
+*.jss/
+*.scss/
+*.cfg/
+그 외/
+*.yolo model/
